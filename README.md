@@ -1,2 +1,3 @@
-# favorite-desserts-jhr
-logging favorite desserts of the lab
+## Favorite desserts of the Santoro Lab
+
+- Jeemin, fruit tart
